@@ -1,2 +1,2 @@
-# Repositório do WebDev Carrefour DIO
-Projeto Bootcamp WebDev Carrefour da DIO
+# Repositório do Desafio Git da DIO
+Projeto da DIO
